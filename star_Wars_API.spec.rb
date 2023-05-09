@@ -64,7 +64,9 @@ RSpec.describe 'Star Wars API' do
 
     end
     # Call the method to generate the sentence
-    generate_sentence
+    puts 'Genarated Sentence:'
+    puts generate_sentence
+
     puts '***** NOTE : Where gender is not specified Male or Female, kept that honourific blank, while generating sentence *****'
   end
 end
