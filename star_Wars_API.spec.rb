@@ -1,6 +1,6 @@
 require 'httparty'
 
-describe 'Star Wars API' do
+RSpec.describe 'Star Wars API' do
   it 'should return a sentence with required output format' do
 
     BASE_URL = 'https://swapi.dev/api/'   # Base URL of the API
