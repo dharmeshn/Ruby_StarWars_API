@@ -28,8 +28,9 @@ To run this script, you will need to have the following installed:
 ### Setup
 
 1. Clone this repository or download the files.
-2. Open a terminal and navigate to the directory containing the files.
-3. Run the following command to install the required `HTTParty` and `RSpec` gems :
+2. Open the project in Visual Studio Code.
+3. Open a terminal and navigate to the directory containing the files.
+4. Run the following command to install the required `HTTParty` and `RSpec` gems :
 
 ```
 gem install httparty
