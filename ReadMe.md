@@ -42,7 +42,7 @@ bundle install
 
 
 
-## Test case
+### Running Test
 
 This script includes a RSpec test to ensure that the generated sentence matches the required format. To run the test to generate sentence, simply run the following command:
 
